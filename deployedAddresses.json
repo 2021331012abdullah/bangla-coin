@@ -1,0 +1,24 @@
+{
+  "Transfer": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "DAO": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+  "FlagRegistry": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+  "Freeze": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+  "Wallets": {
+    "Alice": {
+      "address": "0x7BCb178DEf513C67dEa16154556BA2e3c1c8187F",
+      "privateKey": "0xd8ed07881a584beba05e79b47d360d58ae55f38db7a98b559a96e63970c9c303"
+    },
+    "Bob": {
+      "address": "0x1F765cf000179fE3eE3b5830C96dcB32BA8735Be",
+      "privateKey": "0xbd68b36d6bd720d4335aa72ddc0ff967fab08c20fbfbaa0c73bfcfea7c19ef0f"
+    },
+    "Agent": {
+      "address": "0x9A676f7516ad819E35178778AD92ac008E14b8CC",
+      "privateKey": "0xc60064241bf8b6df7a0526d5af1ad177b2aacaca0492dff9b8f84e5c6b9bb0d2"
+    },
+    "Malicious": {
+      "address": "0x84B7e13C8aD2111Ee36f99D5bCFeC9b682A7084C",
+      "privateKey": "0xc47830ef8d28bb053ee19c7356e1094b05e6789e620f9bb35ea3bdbc560af4f5"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+backend/bangla-coin.db
+backend/bangla-coin.db-wal
+backend/bangla-coin.db-shm
+frontend/dist/
+frontend/.eslintcache
+artifacts/
+cache/
+typechain-types/
+Docs/bangla_coin_testing_guide.md
